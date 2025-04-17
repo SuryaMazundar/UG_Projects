@@ -1,0 +1,1 @@
+usage: ./sprog3 [-sorted|unique] [-verbose] < file.txt
